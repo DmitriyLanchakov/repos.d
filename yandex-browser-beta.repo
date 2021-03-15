@@ -1,0 +1,8 @@
+[yandex-browser-beta]
+name=yandex-browser-beta
+enabled=1
+autorefresh=1
+baseurl=http://repo.yandex.ru/yandex-browser/rpm/beta/x86_64
+gpgcheck=1
+gpgkey=https://repo.yandex.ru/yandex-browser/YANDEX-BROWSER-KEY.GPG
+keeppackages=0

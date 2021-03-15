@@ -1,0 +1,7 @@
+[ftp.gwdg.de-Essentials]
+name=Packman Essentials Repository
+enabled=1
+autorefresh=1
+baseurl=http://ftp.gwdg.de/pub/linux/misc/packman/suse/openSUSE_Tumbleweed/Essentials
+path=/
+keeppackages=0

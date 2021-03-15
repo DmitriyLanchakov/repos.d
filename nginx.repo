@@ -1,0 +1,6 @@
+[nginx]
+enabled=1
+autorefresh=1
+baseurl=https://nginx.org/packages/sles/15
+gpgcheck=0
+keeppackages=0

@@ -1,0 +1,7 @@
+[debug]
+name=debug
+enabled=0
+autorefresh=0
+baseurl=http://download.opensuse.org/debug/tumbleweed/repo/oss/
+path=/
+keeppackages=0

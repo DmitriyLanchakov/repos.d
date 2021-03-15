@@ -1,0 +1,6 @@
+[repo-src-oss]
+name=repo-src-oss
+enabled=1
+autorefresh=1
+baseurl=http://download.opensuse.org/tumbleweed/repo/src-oss
+keeppackages=0

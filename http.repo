@@ -1,0 +1,7 @@
+[http]
+name=http
+enabled=1
+autorefresh=1
+baseurl=http://download.opensuse.org/repositories/server:/http/openSUSE_Tumbleweed/
+path=/
+keeppackages=0

@@ -1,0 +1,7 @@
+[owncloud-opensuse]
+name=owncloud-opensuse
+enabled=0
+autorefresh=0
+baseurl=http://download.opensuse.org/repositories/isv:/ownCloud:/desktop/openSUSE_Tumbleweed/
+path=/
+keeppackages=0

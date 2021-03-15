@@ -1,0 +1,7 @@
+[packages-microsoft-com-prod]
+name=packages-microsoft-com-prod
+enabled=1
+autorefresh=1
+baseurl=https://packages.microsoft.com/sles/15/prod
+path=/
+keeppackages=0

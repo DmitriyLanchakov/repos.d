@@ -1,0 +1,6 @@
+[inescid]
+name=home:inescid:robots
+enabled=1
+autorefresh=1
+baseurl=http://download.opensuse.org/repositories/home:/inescid:/robots/openSUSE_Tumbleweed/
+keeppackages=0

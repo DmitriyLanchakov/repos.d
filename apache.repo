@@ -1,0 +1,7 @@
+[apache]
+name=apache
+enabled=0
+autorefresh=0
+baseurl=http://download.opensuse.org/repositories/Apache/openSUSE_Tumbleweed/
+path=/
+keeppackages=0

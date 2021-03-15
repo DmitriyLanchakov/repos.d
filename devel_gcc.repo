@@ -1,0 +1,8 @@
+[devel_gcc]
+name=GNU Compiler Collection container (openSUSE_Factory)
+enabled=1
+autorefresh=1
+baseurl=https://download.opensuse.org/repositories/devel:/gcc/openSUSE_Factory/
+gpgcheck=1
+gpgkey=https://download.opensuse.org/repositories/devel:/gcc/openSUSE_Factory/repodata/repomd.xml.key
+keeppackages=0

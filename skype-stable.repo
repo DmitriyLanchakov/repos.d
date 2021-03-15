@@ -1,0 +1,6 @@
+[skype-stable]
+name=skype (stable)
+enabled=1
+autorefresh=1
+baseurl=https://repo.skype.com/rpm/stable/
+keeppackages=0

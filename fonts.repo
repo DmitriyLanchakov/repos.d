@@ -1,0 +1,7 @@
+[fonts]
+name=fonts
+enabled=1
+autorefresh=1
+baseurl=http://download.opensuse.org/repositories/M17N:/fonts/openSUSE_Tumbleweed
+path=/
+keeppackages=0

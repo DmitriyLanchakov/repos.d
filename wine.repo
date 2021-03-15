@@ -1,0 +1,7 @@
+[wine]
+name=wine
+enabled=1
+autorefresh=1
+baseurl=http://download.opensuse.org/repositories/Emulators:/Wine/openSUSE_Tumbleweed/
+path=/
+keeppackages=0

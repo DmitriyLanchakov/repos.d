@@ -1,0 +1,7 @@
+[openSUSE_Tumbleweed_11]
+name=php
+enabled=1
+autorefresh=1
+baseurl=http://download.opensuse.org/repositories/server:/php:/applications/openSUSE_Tumbleweed/
+path=/
+keeppackages=0

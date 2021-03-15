@@ -1,0 +1,13 @@
+[oss]
+name=oss
+enabled=0
+autorefresh=0
+baseurl=http://download.opensuse.org/tumbleweed/repo/oss
+keeppackages=0
+[oss-tspu]
+name=oss-tspu
+enabled=1
+autorefresh=1
+baseurl=http://mirror.tspu.edu.ru/opensuse/tumbleweed/repo/oss/
+priority=90
+keeppackages=0
